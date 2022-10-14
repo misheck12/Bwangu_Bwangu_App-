@@ -7,3 +7,4 @@ Must follow the documentation.
 otherwise please use "User app and web" folder.
 
 Documentation - https://docs.6amtech.com/
+please change 6amtech to bwangubwangu
